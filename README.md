@@ -2,6 +2,8 @@
 
 A streamlined Python implementation for high-impact NLP tasks. This project demonstrates how to deploy **Sentiment Analysis**, **Text Summarization**, and **Named Entity Recognition (NER)** using Hugging Face Transformers Pipelines.
 
+![](img/Gemini_Generated_Image_q8iai9q8iai9q8ia.png)
+
 ## 🌟 Features
 - **Plug-and-Play:** Uses `pipeline` abstractions for SOTA performance with zero configuration.
 - **Multi-Task:** Three core NLP solutions in a single script.
