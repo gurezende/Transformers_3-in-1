@@ -19,13 +19,13 @@ cd 20-minute-ai
 pip install transformers torch pandas
 ```
 
-## 🚀 Quick Start
-
-Hugging Face Pipelines Version 5 removed the Summarization task. For now, the quickest workaround is installing the V4.
+Hugging Face Pipelines Version 5 removed the Summarization task. For now, the quickest workaround is to install the V4.
 
 ```bash
 pip install -U "transformers<5" --quiet
 ```
+
+## 🚀 Quick Start
 
 Run the core script to see the three NLP tasks in action:
 
